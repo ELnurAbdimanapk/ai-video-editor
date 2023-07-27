@@ -1,0 +1,7 @@
+.AppBarGradient {
+    background: linear-gradient(170deg, #eee9e9 30%, #FF6B6C 150%) !important;
+  }
+.logo{
+    letter-spacing:200px;
+    margin-left: 2;
+}
